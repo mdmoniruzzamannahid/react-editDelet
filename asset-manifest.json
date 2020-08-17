@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-editDelet/static/css/main.8499b8db.chunk.css",
+    "main.js": "/react-editDelet/static/js/main.3867f5a2.chunk.js",
+    "main.js.map": "/react-editDelet/static/js/main.3867f5a2.chunk.js.map",
+    "runtime-main.js": "/react-editDelet/static/js/runtime-main.3611156f.js",
+    "runtime-main.js.map": "/react-editDelet/static/js/runtime-main.3611156f.js.map",
+    "static/js/2.aacbbde0.chunk.js": "/react-editDelet/static/js/2.aacbbde0.chunk.js",
+    "static/js/2.aacbbde0.chunk.js.map": "/react-editDelet/static/js/2.aacbbde0.chunk.js.map",
+    "index.html": "/react-editDelet/index.html",
+    "precache-manifest.bffaebd85e7ae9bb7dfd3ba3ea93efb6.js": "/react-editDelet/precache-manifest.bffaebd85e7ae9bb7dfd3ba3ea93efb6.js",
+    "service-worker.js": "/react-editDelet/service-worker.js",
+    "static/css/main.8499b8db.chunk.css.map": "/react-editDelet/static/css/main.8499b8db.chunk.css.map",
+    "static/js/2.aacbbde0.chunk.js.LICENSE.txt": "/react-editDelet/static/js/2.aacbbde0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3611156f.js",
+    "static/js/2.aacbbde0.chunk.js",
+    "static/css/main.8499b8db.chunk.css",
+    "static/js/main.3867f5a2.chunk.js"
+  ]
+}
